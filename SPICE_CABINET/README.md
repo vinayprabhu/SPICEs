@@ -1,9 +1,6 @@
-Collection of the SPICEs (SPICE: Survey Papers as Interactive Cheat-sheet Embeddings):
+# Collection of the SPICEs (SPICE: Survey Papers as Interactive Cheat-sheet Embeddings):
 
-Co-creators: [Vinay Uday Prabhu](https://twitter.com/vinayprabhu), Matthew Mc Ateer, John Whaley and Ryan Teehan
-
-
-Citation:
+## Citation:
 ```
 @inproceedings{prabhu2020spices,
   title={SPICES: Survey Papers As Interactive Cheatsheet Embeddings},
@@ -18,7 +15,7 @@ McAteer, Matthew and Teehan, Ryan and Whaley, John },
 }
 ```
 
-| Scholar           | Publications                                                          |
+| SPICE         | TL-DR                                                          |
 |-------------------|-----------------------------------------------------------------------|
 | 1. [SPICE for Out of distribution landscape](./OOD_SPICE.pdf)     | Literature sorrounding Out-of-distribution landscape in recent ML literature       |
 | 2. [SPICE for X-is all you need](./X_all_you_need.pdf)     | What do ML'ers mean when they say, _X is all you need!_                                          |
