@@ -1,6 +1,22 @@
 Collection of the SPICEs (SPICE: Survey Papers as Interactive Cheat-sheet Embeddings):
 
+Co-creators: [Vinay Uday Prabhu](https://twitter.com/vinayprabhu), Matthew Mc Ateer, John Whaley and Ryan Teehan
 
+
+Citation:
+```
+@inproceedings{prabhu2020spices,
+  title={SPICES: Survey Papers As Interactive Cheatsheet Embeddings},
+  author={Prabhu, Uday Vinay and 
+McAteer, Matthew and Teehan, Ryan and Whaley, John },
+  booktitle={Rethinking ML Papers - ICLR 2021 Workshop},
+  howpublished = {\url{https://openreview.net/pdf?id=1sysg9hi3KS}},
+  month = {April},
+  year = {2021},
+  note = {(Accessed on 04/03/2021)}
+  year={2021}
+}
+```
 
 | Scholar           | Publications                                                          |
 |-------------------|-----------------------------------------------------------------------|
